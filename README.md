@@ -20,11 +20,11 @@ cd ./drugStore
 Ви можете запустити проєкт локально за допомогою наступних команд:
 
 # Запуск сервера
-cd ./backend /n
-npm install
-npm run start
+### cd ./backend
+### npm install
+### npm run start
 
 # Запуск клієнта
-cd ./frontend
-npm install
-npm run dev
+### cd ./frontend
+### npm install
+### npm run dev
