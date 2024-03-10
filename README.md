@@ -11,8 +11,8 @@ Database: MongoDB. MongoDB - це база даних на основі доку
 Встановлення
 Перед початком вам потрібно встановити Node.js і MongoDB на ваш комп’ютер. Після встановлення ви можете клонувати цей репозиторій і встановити залежності за допомогою npm:
 
-git clone https://github.com/VilkhovyiDmytro/drugStore.git
-cd ./drugStore
+### git clone https://github.com/VilkhovyiDmytro/drugStore.git
+### cd ./drugStore
 
 
 
