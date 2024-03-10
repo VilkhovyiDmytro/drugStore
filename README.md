@@ -1,4 +1,4 @@
-### Проєкт Full Stack E-commerce
+# Проєкт Full Stack E-commerce
 Цей проєкт є повноцінним веб-додатком для електронної комерції, який розроблений з використанням стеку технологій React, Tailwind CSS, Express і MongoDB.
 
 ## Опис
@@ -11,16 +11,20 @@ Database: MongoDB. MongoDB - це база даних на основі доку
 Встановлення
 Перед початком вам потрібно встановити Node.js і MongoDB на ваш комп’ютер. Після встановлення ви можете клонувати цей репозиторій і встановити залежності за допомогою npm:
 
-git clone https://github.com/your-repository.git
-cd your-repository
-npm install
+git clone https://github.com/VilkhovyiDmytro/drugStore.git
+cd ./drugStore
+
+
 
 ## Запуск проєкту
 Ви можете запустити проєкт локально за допомогою наступних команд:
 
 # Запуск сервера
+cd ./backend
+npm install
 npm run start
 
 # Запуск клієнта
-cd client
-npm run start
+cd ./frontend
+npm install
+npm run dev
