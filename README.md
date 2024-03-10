@@ -1,4 +1,4 @@
-# Проєкт Full Stack E-commerce
+# Проєкт drug-store Full Stack 
 Цей проєкт є повноцінним веб-додатком для електронної комерції, який розроблений з використанням стеку технологій React, Tailwind CSS, Express і MongoDB.
 
 ## Опис
