@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navlink {
+  @apply text-gray-600 hover:text-blue-500 [&.active]:text-blue-500 my-4;
+}
+
+.btn {
+  @apply hover:font-semibold border bg-blue-200 min-h-12 px-4 py-2 hover:text-lg duration-150 ease-in hover:border-gray-800 hover:cursor-pointer hover:bg-blue-300;
+}
+
+.inp {
+  @apply border-2 focus:outline-gray-400 px-4 py-2;
+}
